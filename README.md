@@ -6,5 +6,5 @@ I was introduced to this from the course [The Complete SQL Bootcamp
 Jose Portilla. All the knowledge you need to solve these execises is covered in
 this course.
 # Help
-These are my first exercises in SQL, hence I required some help
+These are my first exercises in SQL, hence, I required some extra help.
 I mostly use [this site](<https://sarapesavento.wordpress.com>) from Sara Pesavento [@spesavento](<https://github.com/spesavento>) when I had any doubt or required extra help.
