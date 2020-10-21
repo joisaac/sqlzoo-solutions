@@ -8,5 +8,3 @@ this course.
 # Help
 These are my first exercises in SQL, hence I required some help
 I mostly use [this site](<https://sarapesavento.wordpress.com>) from Sara Pesavento [@spesavento](<https://spesavento>) when I had any doubt or required extra help.
-
-*If you can imagine it, you can code it!*
