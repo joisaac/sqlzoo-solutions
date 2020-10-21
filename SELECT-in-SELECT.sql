@@ -1,3 +1,4 @@
+--SELECT in SELECT
 --1
 SELECT name FROM world
 WHERE population > (SELECT population FROM world
