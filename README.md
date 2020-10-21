@@ -7,4 +7,4 @@ Jose Portilla. All the knowledge you need to solve these execises is covered in
 this course.
 # Help
 These are my first exercises in SQL, hence I required some help
-I mostly use [this site](<https://sarapesavento.wordpress.com>) from Sara Pesavento [@spesavento](<https://spesavento>) when I had any doubt or required extra help.
+I mostly use [this site](<https://sarapesavento.wordpress.com>) from Sara Pesavento [@spesavento](<https://github.com/spesavento>) when I had any doubt or required extra help.
