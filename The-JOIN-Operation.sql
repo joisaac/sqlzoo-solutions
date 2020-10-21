@@ -1,3 +1,4 @@
+--The JOIN Operation
 --1
 SELECT matchid, plauyer FROM goal
 WHERE teamid = 'GER';
