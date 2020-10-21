@@ -1,3 +1,4 @@
+--SELECT from nobel
 --1
 SELECT * FROM nobel
 WHERE yr = '1950';
