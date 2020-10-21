@@ -1,3 +1,4 @@
+--More JOIN
 --1
 SELECT id, title FROM movie
 WHERE yr=1962;
