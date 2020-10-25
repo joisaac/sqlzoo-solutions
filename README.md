@@ -14,4 +14,4 @@ from [@peterrobert](https://github.com/peterrobert) [SQLZOO
 repository](https://github.com/peterrobert/SQL_ZOO).
 
 If there is even a typing mistake or you want to contribute with ideas or
-better solutions, do not hesitate
+better solutions, do not hesitate.
